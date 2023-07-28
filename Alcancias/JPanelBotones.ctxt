@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=alc
+comment0.target=JPanelBotones(JFAlcancia)
+comment1.params=evento
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ Ejecuta\ la\ acci\u00F3n\ seg\u00FAn\ el\ bot\u00F3n\ sobre\ el\ que\ se\ haya\ hecho\ click\r\n\ @param\ evento\ Es\ el\ evento\ de\ click\ sobre\ un\ bot\u00F3n.\ evento\ \!\=\ null\r\n
+numComments=2

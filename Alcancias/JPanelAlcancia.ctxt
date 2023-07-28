@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JPanelAlcancia()
+comment1.params=mensaje
+comment1.target=void\ cambiarMensaje(java.lang.String)
+comment1.text=\r\n\ Cambia\ el\ mensaje\ mostrado\ <br>\r\n\ <b>post\:\ </b>Se\ cambi\u00F3\ el\ mensaje\r\n\ @param\ mensaje\ El\ mensaje\ que\ se\ quiere\ mostrar.\ mensaje\!\=null\r\n
+comment2.params=rota
+comment2.target=void\ cambiarEstadoAlcancia(boolean)
+comment2.text=\r\n\ Cambia\ el\ dibujo\ de\ la\ alcanc\u00EDa\ seg\u00FAn\ el\ estado\ actual\ <br>\r\n\ <b>post\:\ </b>El\ dibujo\ refleja\ el\ estado\ actual\ de\ la\ alcanc\u00EDa\r\n\ @param\ rota\ Indica\ si\ actualmente\ la\ alcanc\u00EDa\ est\u00E1\ rota\ o\ no\r\n
+numComments=3

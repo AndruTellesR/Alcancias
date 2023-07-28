@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JFAlcancia()
+comment0.text=\r\n\ Construye\ la\ interfaz\ de\ la\ aplicaci\u00F3n\ y\ la\ inicializa\ con\ una\ alcanc\u00EDa\ vac\u00EDa\ <br>\r\n\ <b>post\:\ </b>\ alcancia\ \!\=\ null\r\n
+comment1.params=cantidad
+comment1.target=void\ agregarMoneda(int)
+comment1.text=\r\n\ Agrega\ una\ moneda\ a\ la\ alcanc\u00EDa\ siempre\ y\ cuando\ no\ est\u00E9\ rota\ <br>\r\n\ <b>post\:\ </b>Se\ agreg\u00F3\ la\ cantidad\ indicada\ a\ la\ alcanc\u00EDa\ o\ se\ present\u00F3\ un\ mensaje\ de\ error\ si\ estaba\ rota\r\n\ @param\ cantidad\ cantidad\ que\ se\ va\ a\ agregar\ a\ la\ alcanc\u00EDa\r\n
+comment2.params=
+comment2.target=void\ nuevaAlcancia()
+comment2.text=\r\n\ Crea\ una\ nueva\ alcanc\u00EDa\ <br>\r\n\ <b>post\:\ </b>La\ alcanc\u00EDa\ es\ nueva\ y\ est\u00E1\ vac\u00EDa\r\n
+comment3.params=
+comment3.target=void\ romperAlcancia()
+comment3.text=\r\n\ Rompe\ la\ alcanc\u00EDa\ y\ actualiza\ la\ informaci\u00F3n\ mostrada\ <br>\r\n\ <b>post\:\ </b>La\ alcanc\u00EDa\ est\u00E1\ rota\ y\ se\ mostr\u00F3\ su\ contenido\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Ejecuta\ la\ aplicaci\u00F3n\r\n\ @param\ args\ par\u00E1metros\ de\ la\ ejecuci\u00F3n\r\n
+numComments=5

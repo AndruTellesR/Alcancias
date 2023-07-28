@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=alc
+comment0.target=JPanelMonedas(JFAlcancia)
+comment0.text=\r\n\ Construye\ un\ nuevo\ panel\ <br>\r\n\ <b>post\:\ </b>Se\ construy\u00F3\ el\ panel\ y\ se\ inicializaron\ sus\ componentes\r\n\ @param\ ia\ Es\ una\ referencia\ a\ la\ clase\ principal\ de\ la\ interfaz.\ ia\ \!\=\ null\r\n
+comment1.params=denominacion\ cantidad
+comment1.target=void\ cambiarCantidad(int,\ int)
+comment1.text=\r\n\ Cambia\ la\ cantidad\ de\ monedas\ que\ hay\ de\ una\ cierta\ cantidad\r\n\ @param\ denominacion\ La\ denominaci\u00F3n\ de\ la\ moneda\r\n\ @param\ cantidad\ La\ cantidad\ de\ esas\ monedas\ que\ hay\r\n
+comment2.params=evento
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Se\ ejecuta\ cuando\ se\ hace\ click\ sobre\ un\ bot\u00F3n\r\n\ @param\ evento\ Es\ el\ evento\ del\ click\ sobre\ el\ bot\u00F3n\r\n
+comment3.params=evento
+comment3.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment3.text=\r\n\ Este\ m\u00E9todo\ se\ llama\ cuando\ se\ selecciona\ alguno\ de\ los\ botones\ que\ indican\ las\ denominaciones.\ <br>\r\n\ El\ m\u00E9todo\ se\ encarga\ de\ dibujar\ un\ borde\ alrededor\ de\ la\ denominaci\u00F3n\ seleccionada.\r\n\ @param\ evento\ Es\ el\ evento\ de\ la\ selecci\u00F3n\ de\ una\ denominaci\u00F3n\r\n
+numComments=4
